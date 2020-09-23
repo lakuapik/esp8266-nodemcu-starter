@@ -1,0 +1,3 @@
+tests/
+tools/
+variants/* except nodemcu and generic
